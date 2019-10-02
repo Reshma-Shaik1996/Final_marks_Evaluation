@@ -1,0 +1,10 @@
+C:\Users\fifi\Desktop\FinalExam_1831841\FinalExam_1831841\bin\Debug\FinalExam_1831841.exe.config
+C:\Users\fifi\Desktop\FinalExam_1831841\FinalExam_1831841\bin\Debug\FinalExam_1831841.exe
+C:\Users\fifi\Desktop\FinalExam_1831841\FinalExam_1831841\bin\Debug\FinalExam_1831841.pdb
+C:\Users\fifi\Desktop\FinalExam_1831841\FinalExam_1831841\obj\Debug\FinalExam_1831841.csprojAssemblyReference.cache
+C:\Users\fifi\Desktop\FinalExam_1831841\FinalExam_1831841\obj\Debug\FinalExam_1831841.Form1.resources
+C:\Users\fifi\Desktop\FinalExam_1831841\FinalExam_1831841\obj\Debug\FinalExam_1831841.Properties.Resources.resources
+C:\Users\fifi\Desktop\FinalExam_1831841\FinalExam_1831841\obj\Debug\FinalExam_1831841.csproj.GenerateResource.cache
+C:\Users\fifi\Desktop\FinalExam_1831841\FinalExam_1831841\obj\Debug\FinalExam_1831841.csproj.CoreCompileInputs.cache
+C:\Users\fifi\Desktop\FinalExam_1831841\FinalExam_1831841\obj\Debug\FinalExam_1831841.exe
+C:\Users\fifi\Desktop\FinalExam_1831841\FinalExam_1831841\obj\Debug\FinalExam_1831841.pdb
